@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  font-size: 2rem;
+  font-family: 'Palette Mosaic', cursive;
+  color: #57264c;
+}
