@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Udemy-less-1/static/css/main.d056cdcc.chunk.css",
+    "main.js": "/Udemy-less-1/static/js/main.21013f32.chunk.js",
+    "main.js.map": "/Udemy-less-1/static/js/main.21013f32.chunk.js.map",
+    "runtime-main.js": "/Udemy-less-1/static/js/runtime-main.3819b35b.js",
+    "runtime-main.js.map": "/Udemy-less-1/static/js/runtime-main.3819b35b.js.map",
+    "static/js/2.1682ca33.chunk.js": "/Udemy-less-1/static/js/2.1682ca33.chunk.js",
+    "static/js/2.1682ca33.chunk.js.map": "/Udemy-less-1/static/js/2.1682ca33.chunk.js.map",
+    "static/js/3.41e71f47.chunk.js": "/Udemy-less-1/static/js/3.41e71f47.chunk.js",
+    "static/js/3.41e71f47.chunk.js.map": "/Udemy-less-1/static/js/3.41e71f47.chunk.js.map",
+    "index.html": "/Udemy-less-1/index.html",
+    "static/css/main.d056cdcc.chunk.css.map": "/Udemy-less-1/static/css/main.d056cdcc.chunk.css.map",
+    "static/js/2.1682ca33.chunk.js.LICENSE.txt": "/Udemy-less-1/static/js/2.1682ca33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3819b35b.js",
+    "static/js/2.1682ca33.chunk.js",
+    "static/css/main.d056cdcc.chunk.css",
+    "static/js/main.21013f32.chunk.js"
+  ]
+}
