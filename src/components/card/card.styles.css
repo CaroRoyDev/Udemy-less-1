@@ -1,0 +1,13 @@
+.card{
+    border: solid 1px #111;
+    transition: ease-in-out .4s all;
+}
+
+.card img{
+    width: 30%;
+    margin-top: 20px;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
